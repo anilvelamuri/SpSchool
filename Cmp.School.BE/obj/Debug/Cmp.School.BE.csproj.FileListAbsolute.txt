@@ -1,0 +1,71 @@
+C:\Users\bangaram\documents\visual studio 2013\Projects\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+C:\Users\bangaram\documents\visual studio 2013\Projects\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+C:\Users\bangaram\documents\visual studio 2013\Projects\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.csprojResolveAssemblyReference.cache
+C:\Users\bangaram\documents\visual studio 2013\Projects\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+C:\Users\bangaram\documents\visual studio 2013\Projects\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+E:\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.csprojResolveAssemblyReference.cache
+E:\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+E:\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+E:\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+E:\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+E:\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+E:\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+E:\School\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+E:\School\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+E:\School\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+E:\School\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+E:\School\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.csprojResolveAssemblyReference.cache
+E:\School\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+E:\School\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+E:\CmpSchool\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+E:\CmpSchool\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+E:\CmpSchool\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+E:\CmpSchool\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+E:\CmpSchool\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.csprojResolveAssemblyReference.cache
+E:\CmpSchool\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+E:\CmpSchool\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+E:\School\Project\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+E:\School\Project\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+E:\School\Project\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+E:\School\Project\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+E:\School\Project\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+E:\School\Project\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+E:\School\Project\Final\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+E:\School\Project\Final\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+E:\School\Project\Final\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+E:\School\Project\Final\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+E:\School\Project\Final\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+E:\School\Project\Final\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+E:\School\Project\Final\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.csprojResolveAssemblyReference.cache
+D:\old\School Project\jun6\CmpSchool_June6\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+D:\old\School Project\jun6\CmpSchool_June6\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+D:\old\School Project\jun6\CmpSchool_June6\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+D:\old\School Project\jun6\CmpSchool_June6\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+D:\old\School Project\jun6\CmpSchool_June6\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+D:\old\School Project\jun6\CmpSchool_June6\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+C:\Users\venkat\Downloads\CmpSchool_June6-updated\CmpSchool_June6-updated\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+C:\Users\venkat\Downloads\CmpSchool_June6-updated\CmpSchool_June6-updated\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+C:\Users\venkat\Downloads\CmpSchool_June6-updated\CmpSchool_June6-updated\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\venkat\Downloads\CmpSchool_June6-updated\CmpSchool_June6-updated\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\venkat\Downloads\CmpSchool_June6-updated\CmpSchool_June6-updated\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+C:\Users\venkat\Downloads\CmpSchool_June6-updated\CmpSchool_June6-updated\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+C:\Users\venkat\Downloads\CmpSchool_June07_15\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+C:\Users\venkat\Downloads\CmpSchool_June07_15\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+C:\Users\venkat\Downloads\CmpSchool_June07_15\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\venkat\Downloads\CmpSchool_June07_15\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\venkat\Downloads\CmpSchool_June07_15\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.csprojResolveAssemblyReference.cache
+C:\Users\venkat\Downloads\CmpSchool_June07_15\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+C:\Users\venkat\Downloads\CmpSchool_June07_15\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+D:\old\School Project\CmpSchool_Aug04_15\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+D:\old\School Project\CmpSchool_Aug04_15\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+D:\old\School Project\CmpSchool_Aug04_15\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+D:\old\School Project\CmpSchool_Aug04_15\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+D:\old\School Project\CmpSchool_Aug04_15\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+D:\old\School Project\CmpSchool_Aug04_15\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+D:\old\School Project\CmpSchool_Oct01_15\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.dll
+D:\old\School Project\CmpSchool_Oct01_15\CmpSchool\Cmp.School.BE\bin\Debug\Cmp.School.BE.pdb
+D:\old\School Project\CmpSchool_Oct01_15\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.dll
+D:\old\School Project\CmpSchool_Oct01_15\CmpSchool\Cmp.School.BE\bin\Debug\Newtonsoft.Json.xml
+D:\old\School Project\CmpSchool_Oct01_15\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.dll
+D:\old\School Project\CmpSchool_Oct01_15\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.pdb
+E:\School\Project\CmpSchool\Cmp.School.BE\obj\Debug\Cmp.School.BE.csprojResolveAssemblyReference.cache
